@@ -12,7 +12,9 @@ public class Hello {
 		case 10: break;
 		default:
 		}
-		
+		for (int i = 0; i < 10; i++) {
+			System.out.println("ㅋㅋ");
+		}
 		System.out.println("용근쓰");
 		System.out.println("아아");
 
